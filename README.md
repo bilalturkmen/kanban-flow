@@ -1,6 +1,6 @@
 # KanbanFlow | project management tool
 
-https://story-gardenx.netlify.app/
+https://kanbanflowx.netlify.app/
 
 A modern, responsive Kanban board focusing on fluid UX and robust state management. Built with `React Context API` and `Tailwind 4`, featuring smart portals, dynamic status coding, and a single-action focus architecture.
 
