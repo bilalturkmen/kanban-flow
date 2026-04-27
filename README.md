@@ -18,7 +18,7 @@ A modern, responsive Kanban board focusing on fluid UX and robust state manageme
 
 - **Hybrid Action Groups:** Balanced UI design featuring `Action Capsules` that house primary and secondary triggers without breaking layout symmetry.
 
-![](./public/screenshot.png)
+![](./public/screenshoot.png)
 
 ## Built With:
 
